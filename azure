@@ -1,4 +1,7 @@
-the learning is good for understnding
-you rthere for learning
-we are adding the data from the github but not from the server
-we have commit the file to clone
+# Python program to convert decimal into other number systems
+dec = 344
+
+print("The decimal value of", dec, "is:")
+print(bin(dec), "in binary.")
+print(oct(dec), "in octal.")
+print(hex(dec), "in hexadecimal.")
